@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on javascript and css
 - 📫 How to reach me +62 851 5620 7150
 
+[![pages-build-deployment](https://github.com/Daffabot/Daffabot.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Daffabot/Daffabot.github.io/actions/workflows/pages/pages-build-deployment)
 <body>
 <hr style="clear: both;">
 <div style="text-align: center;">
@@ -11,13 +12,13 @@
 <br>
 <nav class="biru">
     <div class="nav-item">
-    <a class="nav-link" href="index.html">Beranda</a>
+    <a class="nav-link" href="https://daffabot.github.io/index.html">Home</a>
     </div>
     <div class="nav-item">
-    <a class="nav-link active" href="README.md">Tentang</a>
+    <a class="nav-link active" href="README.md">About</a>
     </div>
     <div class="nav-item">
-    <a class="nav-link" href="kontak.html">Kontak</a>
+    <a class="nav-link" href="kontak.html">Contact</a>
     </div>
     </nav>
     <br>
