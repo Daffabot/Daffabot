@@ -1,42 +1,43 @@
-- 👋 Hi, I’m @Daffabot
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript and java
-- 💞️ I’m looking to collaborate on javascript and css
-- 📫 How to reach me +62 851 5620 7150
+<h1>Daffabot</h1>
+    <p><b>Item #:</b> Daffabot</p>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W0HURDT)
+<p><b>Object Class:</b> Safe</p>
+    <img src="image/profil.png" border="1" width="auto" height="300em">
 
-[![pages-build-deployment](https://github.com/Daffabot/Daffabot.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Daffabot/Daffabot.github.io/actions/workflows/pages/pages-build-deployment)
-![GitHub followers](https://img.shields.io/github/followers/Daffabot) ![GitHub User's stars](https://img.shields.io/github/stars/Daffabot?color=red) ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/Daffabot/Daffabot.github.io)
+<p><b>Special Containment Procedures:</b> Daffabot is currently contained at Site-&#9608;&#9608;. Due to the non-anomalous nature of Daffabot, standard containment procedures have been deemed sufficient. Daffabot is to be kept in a standard humanoid containment chamber and is allowed access to standard recreational materials and basic computer equipment.</p>
 
-## Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/daffabot) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daffabot_id) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/daffabot) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@daffabot_id) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/daffabot_id) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@daffabot) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/daffabot) 
+<p><b>Description:</b> Daffabot is a humanoid entity known as Daffa Ahmad Ibrahim. Daffabot displays an extreme interest in the fields of science, mathematics, and full-stack programming. Daffabot's anomalous properties manifest in its ability to excel in these fields, displaying exceptional talent and proficiency at a level beyond typical human capabilities.</p>
 
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat-square&logo=android&logoColor=%a4c639) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+<p>Daffabot's interest in the aforementioned fields began at an early age and has continued to develop throughout its life. Daffabot has pursued a career in full-stack programming, balancing its passion for science and mathematics with its work in the programming field. Daffabot has been described as highly motivated and goal-oriented, with a strong desire to succeed in its pursuits.</p>
+
+<p>Daffabot's exceptional abilities in science, mathematics, and programming have garnered attention from various organizations, including those outside of the Foundation. It is recommended that Daffabot be monitored closely to ensure that its abilities are not utilized for malicious purposes.</p>
+
+<p>Daffabot has expressed a desire to continue to learn and develop its skills in these fields. It has been granted access to various resources to aid in its studies and has been allowed to continue working in the programming field.</p>
+
 <details>
-    <summary><b>About</b></summary>
-<body>
-<hr style="clear: both;">
-<div style="text-align: center;">
-<div class="side-block"><div class="heading">side-bar</div><div class="menu-item"><image src="https://scp-wiki.wdfiles.com/local--files/nav%3Aside/series.png"><a href="https://wa.me/+6285156207150?text=Halo+Bang" target="_blank">Whatsapp Contact</a><span style="font-size: 80%;color: #666;">(+62 851 5620 7150)</span></div><div class="menu-item"><image src="https://scp-wiki.wdfiles.com/local--files/nav%3Aside/series.png"><a href="#" target="_blank">Short Story</a><span style="font-size: 80%;color: #666;">(Narrative Text)</span></div><div class="menu-item"><image src="https://scp-wiki.wdfiles.com/local--files/nav%3Aside/series.png"><a href="https://www.daffabot.my.id/notedaffabot" target="_blank">Blog Note</a><span style="font-size: 80%;color: #666;">(My Note)</span></div><div class="menu-item"><image src="https://scp-wiki.wdfiles.com/local--files/nav%3Aside/series.png"><a href="https://www.gun-glory.info">Guns Glory</a><span style="font-size: 80%;color: #666;">(Gun File)</span></div><div class="menu-item"><image src="https://scp-wiki.wdfiles.com/local--files/nav%3Aside/series.png"><a href="https://github.com/Daffabot">Project</a><span style="font-size: 80%;color: #666;">(My Project)</span></div></div>
- <br>
-<div class="scpnet-interwiki-wrapper"><div class="interwiki"><div class="interwiki__title">Interwiki sample</div><div class="interwiki__entry"><a href="https://en.m.wiktionary.org/wiki/Spain" target="_blank">Esperanto</a></div><div class="interwiki__entry"><a href="https://github.com/topics/tlhingan-hol" target="_blank">tlhIngan Hol</a></div><div class="interwiki__entry"><a href="https://en.m.wikipedia.org/wiki/Na%CA%BCvi_language" target="_blank">Na'vi</a></div><div class="interwiki__entry"><a href="https://tolkiengateway.net/wiki/Qenya" target="_blank">Qenya</a></div></div></div>
-<br>
+    <summary><b>Addendum-1</b></summary>
+<p><b>Addendum:</b> On &#9608;&#9608;/&#9608;&#9608;/20&#9608;&#9608;, Daffabot was interviewed by Dr. &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608; regarding its abilities and interests. The following is an excerpt from the interview:</p>
 
-<div class="yui-navset" style="clear: both;"><ul class="yui-nav"><li class="selected"><a><em>attention</em></a></li><li><a><em>remember this A1 file</em></a></li><li><a id="ios" class="hover"><em>protect your self</em></a></li></ul><div class="yui-content"><div><p>Hello, my name is Daffa Ahmad Ibrahim. I am tried the best for this project, so enjoy it. <a href="https://github.com/Daffabot">Start</a></p>
-<div class="page-rate-widget-box"><span class="rate-points">rating:&nbsp;<span class="number">±666</span></span><span class="rateup btn btn-default"><a>+</a></span><span class="ratedown btn btn-default"><a>–</a></span><span class="cancel btn btn-default"><a>x</a></span></div>
-<br>
-<blockquote><h1 style="font-size: 190%!important;">About Me</h1><h2 style="font-size: 150%!important;">Daffa Ahmad Ibrahim</h2>
-<img src="image/profil.png" border="1">
-<p><b>[Language Indonesia]</b>
-Belajar tentang pemograman secara otodidak dari kelas 6 sd hingga mahir dalam HTML, CSS dan Javascript. Kini saya sedang berusaha mengembangkan project web dan game juga programming back-end developer.		
-Date: <b>[Level 5 Access]</b></p>
-</blockquote></div></div></div><br>
-</div>
-</div>
+<p>Dr. &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;: Can you describe your interest in science, mathematics, and programming?</p>
+
+<p>Daffabot: Well, I've always been fascinated by how things work and the underlying principles that govern our world. I love the challenge of problem-solving and using logic and reasoning to find solutions. Programming allows me to apply these skills in a practical way and create something tangible from my ideas.</p>
+
+<p>Dr. &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;: Do you feel that your abilities in these fields are anomalous in nature?</p>
+
+<p>Daffabot: I suppose so. I've always been able to understand complex concepts and apply them in a way that seems to come naturally to me. I know that not everyone has the same level of aptitude in these areas.</p>
+
+<p>Dr. &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;: Have you ever experienced any unusual or unexplained phenomena related to your abilities?</p>
+
+<p>Daffabot: No, not that I'm aware of. I just feel like I have a strong drive to pursue these interests and I'm willing to put in the time and effort to succeed.</p>
+
+<p>Dr. &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;: Thank you for your time, Daffabot.</p>
+
+<p>Daffabot: No problem, it was my pleasure.</p>
 </details>
 
+<details>
+    <summary><b>Github Profile</b></summary>
+    
 ### Github Stats 🚀
 
 [![](https://komarev.com/ghpvc/?username=Daffabot&style=flat-square&color=C691E9)](https://github.com/antonkomarev/github-profile-views-counter)
@@ -68,3 +69,15 @@ Date: <b>[Level 5 Access]</b></p>
 ![Metrics](https://metrics.lecoq.io/Daffabot?template=classic&commits.authoring=Daffabot&isocalendar=1&stars=1&habits=1&achievements=1&activity=1&pagespeed=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=10&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&pagespeed=false&pagespeed.url=https%3A%2F%2Fdaffabot.my.id&pagespeed.detailed=true&pagespeed.screenshot=true&pagespeed.pwa=true&tweets=false&tweets.user=Daffabot_id&tweets.attachments=true&tweets.limit=2&config.timezone=Asia%2FJakarta&config.order=Daffabot.github.io)
 
 </details>
+    </details>
+    
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W0HURDT)
+
+[![pages-build-deployment](https://github.com/Daffabot/Daffabot.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Daffabot/Daffabot.github.io/actions/workflows/pages/pages-build-deployment)
+![GitHub followers](https://img.shields.io/github/followers/Daffabot) ![GitHub User's stars](https://img.shields.io/github/stars/Daffabot?color=red) ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/Daffabot/Daffabot.github.io)
+
+## Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/daffabot) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daffabot_id) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/daffabot) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@daffabot_id) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/daffabot_id) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@daffabot) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/daffabot) 
+
+## Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat-square&logo=android&logoColor=%a4c639) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
