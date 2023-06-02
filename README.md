@@ -69,6 +69,7 @@
 ![Metrics](https://metrics.lecoq.io/Daffabot?template=classic&commits.authoring=Daffabot&isocalendar=1&stars=1&habits=1&achievements=1&activity=1&pagespeed=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=10&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&pagespeed=false&pagespeed.url=https%3A%2F%2Fdaffabot.my.id&pagespeed.detailed=true&pagespeed.screenshot=true&pagespeed.pwa=true&tweets=false&tweets.user=Daffabot_id&tweets.attachments=true&tweets.limit=2&config.timezone=Asia%2FJakarta&config.order=Daffabot.github.io)
 
 </details>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daffabot&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
     </details>
     
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W0HURDT)
