@@ -2,7 +2,7 @@
     <p><b>Item #:</b> Daffabot</p>
 
 <p><b>Object Class:</b> Safe</p>
-    <img src="image/profil.png" border="1" width="auto" height="300em">
+    <img src="https://www.daffabot.my.id/image/profil.webp" width="auto" height="300px" align="left">
 
 <p><b>Special Containment Procedures:</b> Daffabot is currently contained at Site-&#9608;&#9608;. Due to the non-anomalous nature of Daffabot, standard containment procedures have been deemed sufficient. Daffabot is to be kept in a standard humanoid containment chamber and is allowed access to standard recreational materials and basic computer equipment.</p>
 
