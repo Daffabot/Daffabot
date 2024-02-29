@@ -1,50 +1,25 @@
-<h1>Daffabot</h1>
-    <p><b>Item #:</b> Daffabot</p>
-
-<p><b>Object Class:</b> Safe</p>
-    <img src="https://www.daffabot.my.id/image/profil.webp" width="auto" height="300px" align="left">
-
-<p><b>Special Containment Procedures:</b> Daffabot is currently contained at Site-&#9608;&#9608;. Due to the non-anomalous nature of Daffabot, standard containment procedures have been deemed sufficient. Daffabot is to be kept in a standard humanoid containment chamber and is allowed access to standard recreational materials and basic computer equipment.</p>
-
-<p><b>Description:</b> Daffabot is a humanoid entity known as Daffa Ahmad Ibrahim. Daffabot displays an extreme interest in the fields of science, mathematics, and full-stack programming. Daffabot's anomalous properties manifest in its ability to excel in these fields, displaying exceptional talent and proficiency at a level beyond typical human capabilities.</p>
-
-<p>Daffabot's interest in the aforementioned fields began at an early age and has continued to develop throughout its life. Daffabot has pursued a career in full-stack programming, balancing its passion for science and mathematics with its work in the programming field. Daffabot has been described as highly motivated and goal-oriented, with a strong desire to succeed in its pursuits.</p>
-
-<p>Daffabot's exceptional abilities in science, mathematics, and programming have garnered attention from various organizations, including those outside of the Foundation. It is recommended that Daffabot be monitored closely to ensure that its abilities are not utilized for malicious purposes.</p>
-
-<p>Daffabot has expressed a desire to continue to learn and develop its skills in these fields. It has been granted access to various resources to aid in its studies and has been allowed to continue working in the programming field.</p>
-
-<details>
-    <summary><b>Addendum-1</b></summary>
-<p><b>Addendum:</b> On &#9608;&#9608;/&#9608;&#9608;/20&#9608;&#9608;, Daffabot was interviewed by Dr. &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608; regarding its abilities and interests. The following is an excerpt from the interview:</p>
-
-<p>Dr. &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;: Can you describe your interest in science, mathematics, and programming?</p>
-
-<p>Daffabot: Well, I've always been fascinated by how things work and the underlying principles that govern our world. I love the challenge of problem-solving and using logic and reasoning to find solutions. Programming allows me to apply these skills in a practical way and create something tangible from my ideas.</p>
-
-<p>Dr. &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;: Do you feel that your abilities in these fields are anomalous in nature?</p>
-
-<p>Daffabot: I suppose so. I've always been able to understand complex concepts and apply them in a way that seems to come naturally to me. I know that not everyone has the same level of aptitude in these areas.</p>
-
-<p>Dr. &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;: Have you ever experienced any unusual or unexplained phenomena related to your abilities?</p>
-
-<p>Daffabot: No, not that I'm aware of. I just feel like I have a strong drive to pursue these interests and I'm willing to put in the time and effort to succeed.</p>
-
-<p>Dr. &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;: Thank you for your time, Daffabot.</p>
-
-<p>Daffabot: No problem, it was my pleasure.</p>
-</details>
-
-<details>
-    <summary><b>Github Profile</b></summary>
+<a href="https://top.gg/bot/623481583411658753"><img src="./image/oldSchool.png" width="100%" height="auto"/></a>
+<p align="center">
+  <a href="https://www.youtube.com/@daffabot"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/daffabot_id"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/daffabot_official" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/daffabot"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/daffabot"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.patreon.com/daffabot"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+</p>
     
 ### Github Stats 🚀
 
 [![](https://komarev.com/ghpvc/?username=Daffabot&style=flat-square&color=C691E9)](https://github.com/antonkomarev/github-profile-views-counter)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Daffabot&theme=vue-dark&locale=id&mode=weekly)](https://git.io/streak-stats)
-<p align="center"><a href="https://github.com/daffabot"><img src="https://github-readme-stats.vercel.app/api?username=daffabot&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/daffabot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffabot&theme=radical&layout=compact"></a></p> 
+<p><a href="https://github.com/daffabot"><img src="https://github-readme-stats.vercel.app/api?username=daffabot&show_icons=true&theme=radical"></a></p>
+<p><a href="https://github.com/daffabot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffabot&theme=radical&layout=compact"></a></p> 
 
 
 ### Repo Stats 🔭
@@ -69,12 +44,11 @@
 ![Metrics](https://metrics.lecoq.io/Daffabot?template=classic&commits.authoring=Daffabot&isocalendar=1&stars=1&habits=1&achievements=1&activity=1&pagespeed=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=10&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&pagespeed=false&pagespeed.url=https%3A%2F%2Fdaffabot.my.id&pagespeed.detailed=true&pagespeed.screenshot=true&pagespeed.pwa=true&tweets=false&tweets.user=Daffabot_id&tweets.attachments=true&tweets.limit=2&config.timezone=Asia%2FJakarta&config.order=Daffabot.github.io)
 
 </details>
-    </details>
     
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W0HURDT)
 
 [![pages-build-deployment](https://github.com/Daffabot/Daffabot.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Daffabot/Daffabot.github.io/actions/workflows/pages/pages-build-deployment)
-![GitHub followers](https://img.shields.io/github/followers/Daffabot) ![GitHub User's stars](https://img.shields.io/github/stars/Daffabot?color=red) ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/Daffabot/Daffabot.github.io) [![An image of @daffabot's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/daffabot)](https://holopin.io/@daffabot)
+![GitHub followers](https://img.shields.io/github/followers/Daffabot) ![GitHub User's stars](https://img.shields.io/github/stars/Daffabot?color=red) ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/Daffabot/Daffabot.github.io)
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/daffabot.corp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daffabot_id) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/daffabot) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@daffabot_id) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/daffabot_id) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@daffabot) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/daffabot) 
