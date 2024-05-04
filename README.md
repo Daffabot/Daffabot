@@ -1,7 +1,12 @@
 <div align="center">
 <a href="https://www.daffabot.my.id"><img src="./image/oldSchool.png" width="100%" height="auto"/></a>
 
-<p><a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Daffabot&style=flat-square&color=C691E9"></a></p>
+<h2>Views Counter</h2>
+
+![:name](https://count.getloli.com/get/@:name)
+
+<h2>Github Stats</h2>
+
 <p><a href="https://github.com/daffabot"><img src="https://github-readme-streak-stats.herokuapp.com?user=Daffabot&theme=vue-dark&locale=id&mode=weekly"></a></p>
 <p><a href="https://github.com/daffabot"><img src="https://github-readme-stats.vercel.app/api?username=daffabot&show_icons=true&theme=radical"></a></p>
 <p><a href="https://github.com/daffabot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffabot&theme=radical&layout=compact"></a></p>
