@@ -13,10 +13,10 @@
 
 <h2>Repo Stats 🔭</h2>
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Daffabot&repo=Daffabot.github.io&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Daffabot&repo=russian-roulette.github.io&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Daffabot&repo=dps-calc.github.io&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Daffabot&repo=chatdaffabot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Daffabot&repo=megumi&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Daffabot&repo=dps-calc&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Daffabot&repo=flappy-muka-fl&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Daffabot&repo=russian-roulette&theme=dark)
 
 <h2>Top Contributed Repo</h2>
 
