@@ -7,9 +7,9 @@
 
 <h2>Github Stats</h2>
 
-<p><a href="https://github.com/daffabot"><img src="https://github-readme-streak-stats.herokuapp.com?user=Daffabot&theme=vue-dark&locale=id&mode=weekly"></a></p>
-<p><a href="https://github.com/daffabot"><img src="https://github-readme-stats.vercel.app/api?username=daffabot&show_icons=true&theme=radical"></a></p>
-<p><a href="https://github.com/daffabot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffabot&theme=radical&layout=compact"></a></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Daffabot&theme=vue-dark&locale=id&mode=weekly" alt="github streaks stat"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=daffabot&show_icons=true&theme=radical"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffabot&theme=radical&layout=compact"></p>
 
 <h2>Repo Stats 🔭</h2>
 
@@ -32,7 +32,7 @@
 <details>
     <summary>&#127942 <b>GitHub Metrics</b></summary><br/>
     
-![Metrics](https://metrics.lecoq.io/Daffabot?template=classic&commits.authoring=Daffabot&isocalendar=1&stars=1&habits=1&achievements=1&activity=1&pagespeed=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=10&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&pagespeed=false&pagespeed.url=https%3A%2F%2Fdaffabot.my.id&pagespeed.detailed=true&pagespeed.screenshot=true&pagespeed.pwa=true&tweets=false&tweets.user=Daffabot_id&tweets.attachments=true&tweets.limit=2&config.timezone=Asia%2FJakarta&config.order=Daffabot.github.io)
+![Metrics](![Metrics](https://metrics.lecoq.io/Daffabot?template=terminal&isocalendar=1&stargazers=1&habits=1&people=1&sponsors=1&starlists=1&achievements=1&skyline=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&sponsors=false&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=false&sponsors.size=24&sponsors.title=Sponsor%20Me!&starlists=false&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&skyline=false&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&skyline.settings=%7B%0A%20%20%22url%22%3A%20%22https%3A%2F%2Fskyline.github.com%2F%24%7Blogin%7D%2F%24%7Byear%7D%22%2C%0A%20%20%22ready%22%3A%20%22%5B...document.querySelectorAll('span')%5D.map(span%20%3D%3E%20span.innerText).includes('Share%20on%20Twitter')%22%2C%0A%20%20%22wait%22%3A%201%2C%0A%20%20%22hide%22%3A%20%22button%2C%20footer%2C%20a%22%0A%7D%0A&config.timezone=Asia%2FJakarta))
 
 </details>
     
