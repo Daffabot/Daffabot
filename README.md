@@ -7,7 +7,7 @@
 
 <h2>Github Stats</h2>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Daffabot&theme=vue-dark&locale=id&mode=weekly" alt="github streaks stat"></p>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Daffabot&theme=radical)](https://git.io/streak-stats)
 <p><img src="https://github-readme-stats.vercel.app/api?username=daffabot&show_icons=true&theme=radical"></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffabot&theme=radical&layout=compact"></p>
 
